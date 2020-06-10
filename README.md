@@ -3,3 +3,4 @@
    * Cleaning text data.
    *  Naive Bayes implementation from scratch.
    * Naive Bayes implementation using scikit-learn.
+2. Topic Modeling - LDA 
