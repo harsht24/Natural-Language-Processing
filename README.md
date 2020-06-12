@@ -4,4 +4,5 @@
    *  Naive Bayes implementation from scratch.
    * Naive Bayes implementation using scikit-learn.
 2. Topic Modeling - LDA 
-3. Sentiment analysis with regular classifier - GradientBoostingClassifier, GaussianNB
+3. Sentiment analysis with regular classifier - GradientBoostingClassifier, GaussianNB 
+4. Sentiment analysis with LSTM
