@@ -5,7 +5,7 @@
    * Naive Bayes implementation using scikit-learn.
 2. Topic Modeling - LDA 
 3. Sentiment analysis with regular classifier - GradientBoostingClassifier, GaussianNB 
-  * Test accuracy - 72% 
+    * Test accuracy - 72% 
 4. Sentiment analysis with LSTM
-  * Test accuracy - 86.5% 
+    * Test accuracy - 86.5% 
 5. Attention basic implementation
