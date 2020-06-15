@@ -7,4 +7,4 @@
 3. Sentiment analysis with regular classifier - GradientBoostingClassifier, GaussianNB 
   * Test accuracy - 72% 
 4. Sentiment analysis with LSTM
-  * * Test accuracy - 86.5% 
+  * Test accuracy - 86.5% 
