@@ -8,4 +8,5 @@
     * Test accuracy - 72% 
 4. Sentiment analysis with LSTM
     * Test accuracy - 86.5% 
-5. Attention basic implementation
+5. Attention basics
+    * https://arxiv.org/pdf/1706.03762.pdf
