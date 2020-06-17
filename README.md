@@ -13,4 +13,4 @@
 6. Deciphering Code with Character-Level RNN
     * Pre-process text to convert encoded text to matrix of integers
     * Used GRU RNN
-    output - Vector of decoded text
+    * output - Vector of decoded text
