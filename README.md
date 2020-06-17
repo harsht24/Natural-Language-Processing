@@ -10,3 +10,7 @@
     * Test accuracy - 86.5% 
 5. Attention basics
     * https://arxiv.org/pdf/1706.03762.pdf
+6. Deciphering Code with Character-Level RNN
+    * Pre-process text to convert encoded text to matrix of integers
+    * Used GRU RNN
+    output - Vector of decoded text
